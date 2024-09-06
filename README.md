@@ -1,1 +1,1 @@
-Aeromodel Design, Fabrication and opeation of the RC plane of model of Automatic sheet cutter.
+Aeromodel Design, Fabrication and opeation of the RC plane of Cessna 150 model using thermocol.
